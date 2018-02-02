@@ -1,0 +1,48 @@
+php artisan make:controller ArticleController
+
+php artisan make:controller CategorieController
+
+php artisan make:controller CommandeController
+
+php artisan make:controller FichierController
+
+php artisan make:controller GroupeController
+
+php artisan make:controller MotcleController
+
+php artisan make:controller NewsletterController
+
+php artisan make:controller ProduitController
+
+php artisan make:controller ProjetController
+
+php artisan make:controller RealisationController
+
+php artisan make:controller ServiceController
+
+php artisan make:controller SocieteController
+
+php artisan make:controller TacheController
+
+php artisan make:controller TypefichierController
+
+php artisan make:controller TypeproduitController
+
+php artisan make:controller UserController
+
+
+
+DB_CONNECTION=mysql
+DB_HOST=db699855990.db.1and1.com
+DB_PORT=3306
+DB_DATABASE=site_asl
+DB_USERNAME=dbo699855990
+DB_PASSWORD=Dbdev_2017@ASL
+
+https://www.facebook.com/African-Solutions-Lab-2365680063657532/
+ https://www.linkedin.com/in/african-solutions-lab-118238150
+@ASL_company sur Twitter
+Tellement de possibilités étaient déjà prises sur Twitter
+ africansolutionslab@gmail.com
+
+ Info2017@ASL
